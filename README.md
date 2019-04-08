@@ -1,3 +1,7 @@
+
+# Website
+https://github.com/amitsinghgh19/TriviaGame
+
 # TriviaGame
 
 In this challenge, You will be served with 10 questions. You get 120 seconds to answer all the questions. The app will time you out after 120 seconds. You can restart the game again after timeout. The app will give you your results wheather the app times out or you answers all the questions within 120 seconds and hit the DONE button.
